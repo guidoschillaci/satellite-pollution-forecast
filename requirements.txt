@@ -1,0 +1,6 @@
+geemap==0.10.0
+earthengine-api==0.1.284
+pandas==1.2.4
+requests==2.25.1
+opencv-python-headless==4.5.2.52
+matplotlib==3.4.2
